@@ -1,0 +1,4 @@
+---
+resources:
+  - go-example-deployment.yaml
+  - go-example-service.yaml
